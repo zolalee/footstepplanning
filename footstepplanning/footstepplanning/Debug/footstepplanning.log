@@ -1,0 +1,48 @@
+﻿生成启动时间为 2015/6/4 14:58:16。
+     1>项目“C:\Users\Dell\Documents\Visual Studio 2012\Projects\footstepplanning\footstepplanning\footstepplanning.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Debug\footstepplanning.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Debug\footstepplanning.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>c:\users\dell\documents\visual studio 2012\projects\footstepplanning\footstepplanning\源.cpp(182): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : 参见“fscanf”的声明
+     1>c:\users\dell\documents\visual studio 2012\projects\footstepplanning\footstepplanning\源.cpp(299): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2012\projects\footstepplanning\footstepplanning\源.cpp(300): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2012\projects\footstepplanning\footstepplanning\源.cpp(301): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2012\projects\footstepplanning\footstepplanning\源.cpp(302): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2012\projects\footstepplanning\footstepplanning\源.cpp(303): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2012\projects\footstepplanning\footstepplanning\源.cpp(304): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2012\projects\footstepplanning\footstepplanning\源.cpp(305): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2012\projects\footstepplanning\footstepplanning\源.cpp(306): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\dell\documents\visual studio 2012\projects\footstepplanning\footstepplanning\源.cpp(782): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>c:\users\dell\documents\visual studio 2012\projects\footstepplanning\footstepplanning\源.cpp(784): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>c:\users\dell\documents\visual studio 2012\projects\footstepplanning\footstepplanning\源.cpp(785): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>c:\users\dell\documents\visual studio 2012\projects\footstepplanning\footstepplanning\源.cpp(786): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>c:\users\dell\documents\visual studio 2012\projects\footstepplanning\footstepplanning\源.cpp(787): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>c:\users\dell\documents\visual studio 2012\projects\footstepplanning\footstepplanning\源.cpp(788): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>c:\users\dell\documents\visual studio 2012\projects\footstepplanning\footstepplanning\源.cpp(789): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>c:\users\dell\documents\visual studio 2012\projects\footstepplanning\footstepplanning\源.cpp(790): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>c:\users\dell\documents\visual studio 2012\projects\footstepplanning\footstepplanning\源.cpp(797): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(237) : 参见“fscanf”的声明
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Dell\Documents\Visual Studio 2012\Projects\footstepplanning\Debug\footstepplanning.exe" /INCREMENTAL /NOLOGO kinect20.lib opencv_core249d.lib opencv_highgui249d.lib opencv_imgproc249d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Dell\Documents\Visual Studio 2012\Projects\footstepplanning\Debug\footstepplanning.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Dell\Documents\Visual Studio 2012\Projects\footstepplanning\Debug\footstepplanning.lib" /MACHINE:X86 "Debug\源.obj"
+         footstepplanning.vcxproj -> C:\Users\Dell\Documents\Visual Studio 2012\Projects\footstepplanning\Debug\footstepplanning.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\footstepplanning.unsuccessfulbuild”。
+         正在对“Debug\footstepplanning.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Dell\Documents\Visual Studio 2012\Projects\footstepplanning\footstepplanning\footstepplanning.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.82
